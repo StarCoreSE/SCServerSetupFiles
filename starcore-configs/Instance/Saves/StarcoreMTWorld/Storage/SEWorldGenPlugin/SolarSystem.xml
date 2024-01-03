@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_SystemData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CenterObject>
+    <Type>EMPTY</Type>
+    <DisplayName>Center</DisplayName>
+    <Id>eb1cc900-50a7-4418-9524-5a22eeb888ce</Id>
+    <CenterPosition x="0" y="0" z="0" />
+    <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
+    <ChildObjects>
+      <MySystemObject xsi:type="MySystemAsteroids">
+        <Type>ASTEROIDS</Type>
+        <DisplayName>ROIDCLUSTER</DisplayName>
+        <Id>b45f027b-d708-4657-822f-6f3aa140db50</Id>
+        <CenterPosition x="0" y="0" z="0" />
+        <ParentId>eb1cc900-50a7-4418-9524-5a22eeb888ce</ParentId>
+        <ChildObjects />
+        <AsteroidTypeName>AsteroidCluster</AsteroidTypeName>
+        <AsteroidSize>
+          <Min>1024</Min>
+          <Max>1024</Max>
+        </AsteroidSize>
+      </MySystemObject>
+      <MySystemObject xsi:type="MySystemPlanet">
+        <Type>PLANET</Type>
+        <DisplayName>BlackHole</DisplayName>
+        <Id>ff6c7ea4-b1db-454b-bcbd-517d43f92fd0</Id>
+        <CenterPosition x="12.499999909510823" y="12.499999909510819" z="12.499999611157946" />
+        <ParentId>eb1cc900-50a7-4418-9524-5a22eeb888ce</ParentId>
+        <ChildObjects />
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>1000</Diameter>
+        <Generated>true</Generated>
+        <EntityId>-7042660506472184355</EntityId>
+      </MySystemObject>
+    </ChildObjects>
+  </CenterObject>
+</MyObjectBuilder_SystemData>

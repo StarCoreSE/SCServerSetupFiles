@@ -1,0 +1,54 @@
+[21:33:44] Initialized
+GameMode=Creative
+OnlineMode=PUBLIC
+Server=True
+DS=True
+Defined=STABLE, 
+[21:33:44] ### PaintGun v24
+[21:33:44] Loaded server settings:
+[ServerSettings]
+RequireAmmo=True
+PaintSpeedMultiplier=1
+ReplacePaintSurvival=False
+
+[21:33:44] Finding block skins...
+[21:33:44] Skin SubtypeId             Name                       DLCs                 Mod
+[21:33:44] ''                         No Skin                                         
+[21:33:44] 'Battered_Armor'           Battered                                        
+[21:33:44] 'CarbonFibre_Armor'        Carbon Fibre               StylePack            
+[21:33:44] 'Clean_Armor'              Clean                                           
+[21:33:44] 'Concrete_Armor'           Concrete                   ScrapRace            
+[21:33:44] 'Corrugated'               Corrugated                                      
+[21:33:44] 'CowMooFlage_Armor'        Cow Moo Flage                                   
+[21:33:44] 'DigitalCamouflage_Armor'  Digital Camouflage         StylePack            
+[21:33:44] 'Disco_Armor'              Disco                      Economy              
+[21:33:44] 'Dust_Armor'               Dust                       ScrapRace            
+[21:33:44] 'Frozen_Armor'             Frozen                     Frostbite            
+[21:33:44] 'Glamour_Armor'            Glamour                    Economy              
+[21:33:44] 'Golden_Armor'             Golden                     DeluxeEdition        
+[21:33:44] 'Hazard_Armor'             Hazard                     HeavyIndustry        
+[21:33:44] 'Heavy_Rust_Armor'         Heavy Rust                 ScrapRace            
+[21:33:44] 'Mossy_Armor'              Mossy                      StylePack            
+[21:33:44] 'Neon_Colorable_Lights'    Neon Colorable Lights      SparksOfTheFuture    
+[21:33:44] 'Neon_Colorable_Surface'   Neon Colorable Surface     SparksOfTheFuture    
+[21:33:44] 'Plastic'                  Plastic                    Automatons           
+[21:33:44] 'Retrofuture_Armor'        Retrofuture                ScrapRace            
+[21:33:44] 'Rusty_Armor'              Rusty                                           
+[21:33:44] 'SciFi_Armor'              Sci Fi                     SparksOfTheFuture    
+[21:33:44] 'Silver_Armor'             Silver                     Economy              
+[21:33:44] 'Wartorn'                  Wartorn                    DecorativeBlocks3    
+[21:33:44] 'Weldless'                 Weldless                                        
+[21:33:44] 'Wood_Armor'               Wood                       StylePack            
+[21:33:44] 'WoodlandCamo_Armor'       Woodland Camo              Warfare2             
+[21:34:40] PacketJoinSharePalette :: received Invalid (76561198071098415)'s palette; Reply=True
+[21:34:40] + sending all players' palettes back to original sender.
+[21:35:42] PacketJoinSharePalette :: received Muzzled (76561198028233790)'s palette; Reply=True
+[21:35:42] + sending all players' palettes back to original sender.
+[21:35:42] PacketJoinSharePalette :: sending Invalid (76561198071098415)'s palette to=76561198028233790.
+[21:47:43] PacketJoinSharePalette :: received Invalid (76561198071098415)'s palette; Reply=True
+[21:47:43] + sending all players' palettes back to original sender.
+[21:47:43] PacketJoinSharePalette :: sending [NotFound!] (76561198028233790)'s palette to=76561198071098415.
+[21:47:54] PacketJoinSharePalette :: received Muzzled (76561198028233790)'s palette; Reply=True
+[21:47:54] + sending all players' palettes back to original sender.
+[21:47:54] PacketJoinSharePalette :: sending Invalid (76561198071098415)'s palette to=76561198028233790.
+[22:44:42] Unloaded.

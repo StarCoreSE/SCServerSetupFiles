@@ -1,0 +1,5 @@
+# Ignore all torch-server-* directories and their contents
+torch-server-*/
+
+# Exempt the specific subdirectory from being ignored
+!torch-server-*/Instance/Saves/StarcoreMTWorld/

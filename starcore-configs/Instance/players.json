@@ -1,0 +1,40 @@
+[
+  {
+    "Player": "Invalid",
+    "SteamID": 76561198071098415,
+    "IdentityID": 144115188075855873,
+    "Rank": "Default",
+    "KnownIps": [
+      "192.168.1.5"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  },
+  {
+    "Player": "Muzzled",
+    "SteamID": 76561198028233790,
+    "IdentityID": 144115188075855897,
+    "Rank": "Default",
+    "KnownIps": [
+      "70.73.116.145"
+    ],
+    "DiscordData": {
+      "DiscordName": null,
+      "DiscordID": 0,
+      "Roles": {}
+    },
+    "Permissions": {
+      "Allowed": [],
+      "Disallowed": []
+    },
+    "Homes": {}
+  }
+]

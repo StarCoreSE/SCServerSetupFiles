@@ -1,0 +1,15 @@
+[21:23:09] Initialized
+GameMode=Creative
+OnlineMode=OFFLINE
+Server=True
+DS=True
+Defined=STABLE, 
+[21:23:09] MinFieldPower value=0
+[21:23:09] MaxFieldPower value=30
+[21:23:09] MinGridModifier value=1
+[21:23:09] MaxGridModifier value=0.7
+[21:23:09] SiegeEnabled value=True
+[21:23:09] SiegeMinPowerReq value=150
+[21:23:09] SiegeTimer value=9000
+[21:23:09] SiegeCooldownTimer value=18000
+[21:25:32] Unloaded.

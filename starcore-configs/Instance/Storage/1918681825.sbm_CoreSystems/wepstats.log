@@ -1,0 +1,204 @@
+Name, MaxDist, MinDist, DevShotAngle, AimTolerance, AimLeadingPrediction, RotateRate, ElevateRate, IdlePower, RateOfFire, ReloadTime, HeatPerShot, MaxHeat, HeatSinkRate, ShotsInBurst, DelayAfterBurst, AmmoName
+Large Gatling Turret, 0, 0, 0.3, 4, Accurate, 0.04, 0.04, 0.01, 700, 240, 0, 100, 0, 0, 0,    25mm NATO
+Small Gatling Gun, 0, 0, 0.3, 4, Off, 0, 0, 0.001, 700, 1, 0, 100, 0, 0, 0,    25mm NATO
+Small Gatling Gun, 0, 0, 0.3, 4, Off, 0, 0, 0.001, 700, 1, 0, 100, 0, 0, 0,    25mm NATO
+Small Gatling Turret, 0, 0, 0.3, 4, Accurate, 0.04, 0.04, 0.005, 700, 360, 0, 100, 0, 0, 0,    25mm NATO
+Large Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 120, 240, 0, 100, 0, 0, 0,    200mm Missile
+Large Missile Turret, 0, 0, 0.5, 4, Accurate, 0.03, 0.03, 0.01, 90, 240, 0, 100, 0, 0, 0,    200mm Missile
+Small Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 60, 60, 0, 100, 0, 0, 0,    200mm Missile
+Small Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 60, 60, 0, 100, 0, 0, 0,    200mm Missile
+Reloadable Missile Launcher, 0, 0, 0.1, 4, Off, 0, 0, 0.001, 60, 60, 0, 100, 0, 0, 0,    200mm Missile
+Small Missile Turret, 0, 0, 0.5, 4, Accurate, 0.03, 0.03, 0.005, 90, 360, 0, 100, 0, 0, 0,    200mm Missile
+Interior Turret, 0, 0, 0.1, 1, Accurate, 0.04, 0.04, 0.01, 600, 180, 0, 100, 0, 0, 0,    MR-50A   5.56x45mm
+Autocannon, 0, 0, 0.15, 2, Off, 0, 0, 0.001, 200, 1, 0, 100, 0, 0, 0,    Autocannon Shell
+Autocannon Turret, 0, 0, 0.25, 2, Accurate, 0.03, 0.03, 0.005, 200, 360, 0, 100, 0, 0, 0,    Autocannon Shell
+Large Assault Cannon Turret, 0, 0, 0.35, 2, Advanced, 0.01, 0.01, 0.01, 180, 360, 0, 100, 0, 0, 0,    Assault Cannon Shell
+Assault Cannon, 0, 0, 0.2, 2, Off, 0, 0, 0.001, 200, 360, 0, 100, 0, 0, 0,    Assault Cannon Shell
+Small Assault Cannon Turret, 0, 0, 0.5, 2, Advanced, 0.02, 0.02, 0.005, 200, 360, 0, 100, 0, 0, 0,    Assault Cannon Shell
+Artillery, 0, 0, 0.15, 2, Off, 0, 0, 0.0025, 80, 720, 0, 100, 0, 0, 0,    Artillery Shell
+Artillery Turret, 0, 0, 0.3, 2, Advanced, 0.005, 0.005, 0.02, 80, 720, 0, 100, 0, 0, 0,    Artillery Shell
+Large Railgun, 0, 0, 0, 2, Off, 0, 0, 0.001, 20, 3600, 0, 100, 0, 0, 0,    Large Railgun Slug
+Small Railgun, 0, 0, 0, 2, Off, 0, 0, 0.0001, 20, 1200, 0, 100, 0, 0, 0,    Small Railgun Slug
+Searchlight, 2500, 0, 0.1, 1, Accurate, 0.04, 0.04, 0.01, 600, 0, 0, 100, 0, 0, 0,    SpotLight
+Searchlight, 1500, 0, 0.1, 1, Accurate, 0.04, 0.04, 0.01, 600, 0, 0, 100, 0, 0, 0,    SpotLight
+Heavy Bombardment Rockets, 6000, 0, 0.8, 12, Basic, 0.01, 0.01, 6, 120, 240, 8, 74, 5, 6, 0,    Peacemaker Heavy Rockets
+FEM-300 Heavy Repeater (Iron Maiden), 0, 0, 0.2, 2, Accurate, 0.04, 0.02, 12, 400, 20, 1, 70000, 9, 0, 0,    Priest_Ammo
+[Trident] Torpedo Turret, 5000, 0, 0, 180, Off, 0.01, 0.01, 50, 480, 1800, 1, 70000, 9000000, 6, 30,    Torp_Ammo   TorpShrap_Ammo
+F-2 Rotary Rifle, 2250, 50, 0.4, 24, Accurate, 0.06, 0.06, 12, 400, 20, 1, 70000, 9, 0, 0,    Priest_Ammo
+Type 18 Heavy Turret, 0, 0, 0.3, 1, Accurate, 0.009, 0.005, 2, 24, 300, 1, 70000, 9000000, 1, 0,    Type18 HE Round
+Type 21 Heavy Turret, 0, 0, 0.4, 1, Accurate, 0.005, 0.003, 4, 120, 450, 1, 70000, 9000000, 1, 30,    Type21 HE Round
+Type 24 Heavy Turret, 0, 0, 0.5, 1, Accurate, 0.003, 0.0015, 6, 120, 580, 1, 70000, 9000000, 1, 30,    Type24 HE Round
+Type 78 Railgun Turret, 0, 0, 0.08, 1, Accurate, 0.005, 0.003, 7.5, 30, 430, 1, 70000, 9000000, 0, 0,    Type78 Round
+Type 77 Railgun Turret, 0, 0, 0.05, 0.100000001490116, Accurate, 0.009, 0.005, 5, 24, 280, 1, 70000, 9000000, 0, 0,    Type77 Round
+Type 79 Railgun Turret, 0, 0, 0.1, 0.100000001490116, Accurate, 0.003, 0.0015, 10, 24, 520, 1, 70000, 9000000, 0, 0,    Type79 Round
+Reaver Coilgun, 0, 0, 0.1, 5, Accurate, 0.02, 0.02, 5, 150, 60, 1, 70000, 9000000, 0, 0,    Reaver Ammo
+T1PDX, 0, 0, 0, 3, Off, 0.04, 0.04, 0.0005, 3600, 60, 1, 3600, 60, 0, 0,    MA_Laser_1
+T1PDX, 0, 0, 0, 3, Off, 0.04, 0.04, 0.0005, 3600, 60, 1, 3600, 60, 0, 0,    MA_Laser_1
+T2PDX, 4500, 0, 0, 2, Off, 0.015, 0.015, 5, 3600, 60, 1, 3600, 60, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+T2PDX, 4500, 0, 0, 2, Off, 0.015, 0.015, 5, 3600, 60, 1, 3600, 60, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+T2PDX, 4500, 0, 0, 2, Off, 0.015, 0.015, 5, 3600, 60, 1, 3600, 60, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Gimbal Laser, 0, 0, 0, 0, Off, 0.08, 0.05, 0.0005, 3600, 90, 1, 1200, 50, 0, 0,    MA_Laser_1
+Gimbal Laser, 0, 0, 0, 0, Off, 0.08, 0.05, 0.0005, 3600, 90, 1, 1200, 50, 0, 0,    MA_Laser_1
+Gimbal Laser, 0, 0, 0, 0, Off, 0.08, 0.05, 0.0005, 3600, 90, 1, 1200, 50, 0, 0,    MA_Laser_1
+Gimbal Laser, 0, 0, 0, 0, Off, 0.08, 0.05, 0.0005, 3600, 90, 1, 1200, 50, 0, 0,    MA_Laser_1
+Gimbal Laser, 0, 0, 0, 0, Off, 0.08, 0.05, 0.0005, 3600, 90, 1, 1200, 50, 0, 0,    MA_Laser_1
+Gimbal Laser T2, 4500, 0, 0, 2, Off, 0.08, 0.05, 5, 3600, 90, 1, 400, 30, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Gimbal Laser T2, 4500, 0, 0, 2, Off, 0.08, 0.05, 5, 3600, 90, 1, 400, 30, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Gimbal Laser T2, 4500, 0, 0, 2, Off, 0.08, 0.05, 5, 3600, 90, 1, 400, 30, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Gimbal Laser T2, 4500, 0, 0, 2, Off, 0.08, 0.05, 5, 3600, 90, 1, 400, 30, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Gimbal Laser T2, 4500, 0, 0, 2, Off, 0.08, 0.05, 5, 3600, 90, 1, 400, 30, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Gladius Laser, 4000, 0, 0, 0.100000001490116, Off, 0.008, 0.008, 25, 3600, 60, 1, 3600, 60, 480, 0,    MA_Laser_Gladius_Ammo   MA_Laser_T3_Ammo_Decal
+Meatball, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Meatball_Ammo
+Meatball Left Side, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Meatball_Ammo
+Meatball Right Side, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Meatball_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Blister Turret, 1250, 0, 1.8, 0.300000011920929, Advanced, 0.03, 0.03, 0.0005, 720, 120, 10, 1000, 40, 0, 0,    MA_Blister_Ammo
+Slinger AC150mm, 3500, 0, 0.1, 1, Accurate, 0.015, 0.015, 1, 60, 0, 1, 400, 10, 0, 0,    MA_Slinger_Ammo
+Slinger AC150mm, 3500, 0, 0.1, 1, Accurate, 0.015, 0.015, 1, 60, 0, 1, 400, 10, 0, 0,    MA_Slinger_Ammo
+Slinger AC150mm, 3500, 0, 0.1, 1, Accurate, 0.015, 0.015, 1, 60, 0, 1, 400, 10, 0, 0,    MA_Slinger_Ammo
+Slinger AC150mm, 3500, 0, 0.1, 1, Accurate, 0.015, 0.015, 1, 60, 0, 1, 400, 10, 0, 0,    MA_Slinger_Ammo
+Slinger AC150mm, 3500, 0, 0.1, 1, Accurate, 0.015, 0.015, 1, 60, 0, 1, 400, 10, 0, 0,    MA_Slinger_Ammo
+Tiger 150mm, 3500, 0, 1.2, 4, Accurate, 0.1, 0.1, 1, 800, 340, 14, 300, 18, 4, 25,    MA_Tiger_Ammo
+Tiger 150mm, 3500, 0, 1.2, 4, Accurate, 0.1, 0.1, 1, 800, 340, 14, 300, 18, 4, 25,    MA_Tiger_Ammo
+Crouching Tiger 150mm, 3500, 0, 1.2, 4, Accurate, 0.04, 0.04, 2, 800, 340, 14, 300, 18, 4, 25,    MA_Tiger_Ammo
+Fixed Laser T2, 0, 0, 0, 5, Off, 0.2, 0.2, 0.0005, 3600, 90, 1, 400, 50, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Fixed Laser T2, 0, 0, 0, 5, Off, 0.2, 0.2, 0.0005, 3600, 90, 1, 400, 50, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Fixed Laser T2, 0, 0, 0, 5, Off, 0.2, 0.2, 0.0005, 3600, 90, 1, 400, 50, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Fixed Laser T2, 0, 0, 0, 5, Off, 0.2, 0.2, 0.0005, 3600, 90, 1, 400, 50, 0, 0,    MA_Laser_T2_Ammo   MA_Laser_T2_Ammo_Decal
+Fixed Laser T3 Diode, 4000, 10, 0, 9, Off, 0.2, 0.2, 0.5, 3600, 60, 1, 3600, 10, 0, 0,    MA_Laser_T3_Ammo   MA_Laser_T3_Ammo_Decal
+Fixed Laser T3 Diode, 4000, 10, 0, 9, Off, 0.2, 0.2, 0.5, 3600, 60, 1, 3600, 10, 0, 0,    MA_Laser_T3_Ammo   MA_Laser_T3_Ammo_Decal
+T4 Guardian, 4000, 0, 0, 5, Off, 0.01, 0.01, 10, 3600, 60, 1, 7200, 120, 240, 0,    MA_Laser_T4_Ammo   MA_Laser_T4_Ammo_Decal
+Derecho Missile Storm, 4500, 0, 4, 180, Off, 0.02, 0.02, 0.005, 480, 900, 0, 400, 10, 0, 0,    MA_Missile   MA_Missile_Stage2
+Derecho Missile Storm, 4500, 0, 4, 180, Off, 0.02, 0.02, 0.005, 480, 900, 0, 400, 10, 0, 0,    MA_Missile   MA_Missile_Stage2
+Asterius, 0, 0, 0.075, 0.150000005960464, Accurate, 0.0065, 0.007, 1, 200, 30, 25, 100, 52, 0, 0,    Asterius Gauss
+Charon, 2750, 0, 0.25, 5, Basic, 0.013, 0.0075, 1, 1040, 360, 1, 100000, 999, 0, 0,    Charon_Shot   Charon_Shot_Bounce   Charon_Fake_Shot
+Grimlock, 0, 0, 0, 180, Off, 0.1, 0.1, 0.25, 600, 180, 60, 120, 1, 1, 10,    HVSC   HVSC Terminal   HVSC Shrapnel   Sensor Fused   SF Terminal   SF Bomblet   SF Fragment
+Hellfire Laser, 0, 0, 0, 0, Off, 0, 0, 10, 3600, 0, 15, 3000, 300, 0, 0,    Hellfire Laser   Hellfire Pulse   LP Hellfire
+Somnus, 0, 0, 0, 0, Accurate, 0, 0, 0.25, 15, 480, 1, 100, 10, 0, 0,    Somnus Gauss   Somnus Gauss Frag   SomnusFXshots   SomnusFXshots2   SomnusFXshots3   SomnusFXshots4
+Cerberus (A), 0, 0, 0, 1, Accurate, 0.025, 0.02, 1, 175, 600, 5, 100, 20, 0, 0,    Cerberus Gauss   Cerberus_Shrap
+Cerberus (B), 0, 0, 0.1, 1, Accurate, 0, 0.02, 1, 175, 600, 5, 100, 20, 0, 0,    Cerberus Gauss   Cerberus_Shrap
+Cerberus (C), 0, 0, 0.1, 1, Accurate, 0, 0.02, 1, 175, 600, 5, 100, 20, 0, 0,    Cerberus Gauss   Cerberus_Shrap
+Ceis, 3500, 0, 0.25, 1, Advanced, 0.02, 0.02, 0.25, 480, 240, 40, 2000, 200, 0, 0,    Ceis Gauss   Carnifex
+Silvius, 0, 0, 0, 0.00999999977648258, Accurate, 0.03, 0.05, 0.25, 175, 600, 1, 200, 75, 0, 0,    Silvius Gauss   GaussER_Shrap
+Erebos, 0, 0, 0.5, 30, Accurate, 0.07, 0.08, 0.25, 90, 4, 1, 100, 120, 0, 0,    Erebos Ammo   Erebos Ammo AOE
+12-GA, 0, 0, 0.25, 1, Accurate, 0.1, 0.1, 0.25, 600, 30, 12150, 48600, 1800, 1, 60,    BFG
+Magnetic Monopole Compression Cannon, 0, 0, 0.15, 1, Accurate, 0, 0, 0.25, 240, 0, 60, 600, 120, 0, 0,    Autocoil_Ammo_A   AutoCoil_Shrap   AutoCoil_VFX1   AutoCoil_VFX2   AutoCoil_VFX3
+Magnetic Monopole Compression Cannon, 0, 0, 0.15, 1, Accurate, 0, 0, 0.25, 240, 0, 60, 600, 120, 0, 0,    Autocoil_Ammo_A   AutoCoil_Shrap   AutoCoil_VFX1   AutoCoil_VFX2   AutoCoil_VFX3
+Taiidan Fighter Small Bay, 10000, 0, 0.2, 180, Off, 0, 0, 1, 30, 360, 100, 200, 0, 0, 0,    Taiidani Interceptor   Taiidan Interceptor Attack   Taiidan Interceptor Missile Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Fighter Launch Rail, 10000, 0, 0.2, 180, Off, 0, 0, 1, 30, 1, 100, 4000, 12, 0, 0,    Taiidani Interceptor   Taiidan Interceptor Attack   Taiidan Interceptor Missile Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Bomber Launch Rail, 10000, 0, 0.2, 180, Off, 0, 0, 1, 30, 1, 100, 4000, 0, 0, 0,    Taiidani Bomber   Taiidan Bomber Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Fighter Hangar Bay, 10000, 0, 0.2, 180, Off, 0, 0, 1, 30, 360, 100, 8000, 12, 0, 0,    Taiidani Interceptor   Taiidan Interceptor Attack   Taiidan Interceptor Missile Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Bomber Hangar Bay, 10000, 0, 0.2, 180, Off, 0, 0, 1, 30, 360, 100, 8000, 0, 0, 0,    Taiidani Bomber   Taiidan Bomber Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Bomber Hangar Bay Medium, 10000, 0, 0.2, 180, Off, 0, 0, 1, 30, 360, 100, 4000, 0, 0, 0,    Taiidani Bomber   Taiidan Bomber Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Bomber Hangar Bay, 5000, 0, 0.2, 180, Off, 0, 0, 1, 30, 360, 0, 8000, 0, 0, 0,    Taiidani Bomber   Taiidan Bomber Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+Taiidan Fighter Hangar Bay, 5000, 0, 0.2, 180, Off, 0, 0, 1, 30, 360, 0, 8000, 12, 0, 0,    Taiidani Interceptor   Taiidan Interceptor Attack   Taiidan Interceptor Missile Attack   taiidandebrisP   taiidandebris1   taiidandebris2   taiidandebris3   taiidandebris4
+banshee, 10000, 500, 0, 180, Off, 0, 0, 10, 120, 1800, 0, 70000, 9000000, 0, 0,    banshee shot main   banshee shot Acceleration   banshee plasma shot Acceleration
+longsword, 10000, 1000, 0, 180, Off, 0, 0, 10, 120, 3600, 1000, 1000, 0, 0, 0,    longsword shot main   longsword napalm base   longsword napalm timespawn   longsword napalm frag   Longsword Nuke Acceleration   Longsword Nuke Terminal   Longsword Nuke Frag
+Artificial Sun Launcher, 0, 0, 0, 180, Off, 0.1, 0.1, 0.25, 1, 7200, 7200, 7200, 60, 0, 0,    SubterraneanSun   SubterraneanSunStage2   SubterraneanSunStage2SuccParticleInvis   SubterraneanSunStage2SuccParticleVisible   SubterraneanSunStage2EWARTimespawn   SubterraneanSunStage2EWARPattern
+Arrow-IV, 0, 0, 0, 180, Off, 0, 0, 0.25, 100, 300, 1, 10, 0, 0, 0,    Davy Crockett   Davy Crockett Acceleration   Davy Crockett Terminal   Davy Crockett Frag   Davy_Flare   Davy Crockett Smart   Davy Crockett Acceleration Smart   OPA Heavy Torp LockTone   OPA Heavy Torp LockTone Terminal
+Painless, 0, 0, 0.15, 20, Advanced, 0.05, 0.06, 0.02, 1150, 60, 26, 6000, 130, 0, 0,    Bullet_AMS   Bullet_AMS_AOE   Bullet_AMS_AOE_2
+Bainless II AMS, 0, 0, 0.25, 1, Accurate, 0.05, 0.063, 0.02, 1150, 120, 26, 6000, 130, 0, 0,    Ball Bullet AMS   Ball_Turret_Frag
+Fixed Coil Cannon, 0, 0, 0.1, 0, Accurate, 0, 0, 0.25, 60, 480, 1, 70000, 9000000, 0, 0,    Heavy Gauss Slug   Starcore_HeavyGauss_Shrap   HG_VFX1   HG_VFX2   HG_VFX3
+MCRN Torpedo, 20000, 0, 0, 180, Off, 0, 0, 0.25, 100, 420, 10, 85, 85, 0, 0,    MCRN Heavy Torp Launch   MCRN Heavy Torp Acceleration   MCRN Heavy Torp Terminal   MCRN Heavy Torp Frag
+UNN Light Torpedo, 12000, 0, 0, 180, Off, 0, 0, 0.25, 100, 420, 10, 85, 85, 0, 0,    UNN Light Torp Launch   UNN Light Torp Acceleration   UNN Light Torp Terminal   UNN Light Torp Frag
+UNN Heavy Torpedo, 12000, 0, 0, 180, Off, 0, 0, 0.25, 100, 420, 10, 85, 85, 0, 0,    UNN Heavy Torp Launch   UNN Heavy Torp Acceleration   UNN Heavy Torp Terminal   UNN Heavy Torp Frag
+LRM-5, 10000, 1500, 0, 180, Off, 0.1, 0.1, 0.25, 192, 3600, 0, 10, 0, 0, 0,    LRM   Mod_LRM_Terminal   Mod_LRM_Fragment_Detonation
+LRM-5, 10000, 1500, 0, 180, Off, 0.1, 0.1, 0.25, 192, 3600, 0, 10, 0, 0, 0,    LRM   Mod_LRM_Terminal   Mod_LRM_Fragment_Detonation
+LRM-5, 10000, 1500, 0, 180, Off, 0.1, 0.1, 0.25, 192, 3600, 0, 10, 0, 0, 0,    LRM   Mod_LRM_Terminal   Mod_LRM_Fragment_Detonation
+LRM-5, 10000, 1500, 0, 180, Off, 0.1, 0.1, 0.25, 192, 3600, 0, 10, 0, 0, 0,    LRM   Mod_LRM_Terminal   Mod_LRM_Fragment_Detonation
+MRM, 7000, 500, 0.15, 180, Off, 0.1, 0.1, 0.25, 900, 3600, 0, 11, 0, 0, 0,    MRM   MRM_2ndStage
+MRM, 7000, 500, 0.15, 180, Off, 0.1, 0.1, 0.25, 900, 3600, 0, 11, 0, 0, 0,    MRM   MRM_2ndStage
+MRM, 7000, 500, 0.15, 180, Off, 0.1, 0.1, 0.25, 900, 3600, 0, 11, 0, 0, 0,    MRM   MRM_2ndStage
+MRM, 7000, 500, 0.15, 180, Off, 0.1, 0.1, 0.25, 900, 3600, 0, 11, 0, 0, 0,    MRM   MRM_2ndStage
+SSRM-8, 3500, 200, 0.15, 180, Off, 0.1, 0.1, 0.25, 3600, 3600, 0, 8000, 0, 1, 0,    SSRM   SRM_Acceleration   SRM_Detonation
+ER PPC, 8000, 0, 0.05, 0, Accurate, 0.1, 0.1, 100, 100, 480, 30, 50, 5, 1, 0,    ERPPC Main   ERPPC_EWAR   ERPPCFXshots   ERPPCFXshots2   ERPPCFXshots3   ERPPCFXshots4
+RWR Scanner, 4000, 0, 0, 90, Accurate, 1, 1, 0.25, 480, 1, 0, 70000, 0, 0, 0,    RWR_P_Fake
+RWR Asteroid Scanner, 4000, 0, 0, 90, Accurate, 1, 1, 0.25, 480, 1, 0, 70000, 0, 0, 0,    RWR_P_Fake
+Sauron Radome, 50000, 0, 0, 0, Off, 0, 0, 0, 0, 0, 0, 70000, 9000, 0, 0,    Radiowave
+Flares, 5000, 0, 15, 180, Off, 1, 1, 0.25, 606, 120, 1, 8, 1, 1, 0,    Flare   FlarePulse   FlareCandy
+20mm 'Heimdall' Point-Defense Cannon, 2500, 100, 0.3, 70, Accurate, 0.035, 0.04, 12, 2300, 300, 1, 510, 510, 120, 1,    20mm High Velocity   PDC_Bullet_AOE
+20mm 'Heimdall' Point-Defense Cannon, 2500, 100, 0.3, 70, Accurate, 0.035, 0.04, 12, 2300, 300, 1, 510, 510, 120, 1,    20mm High Velocity   PDC_Bullet_AOE
+20mm 'Heimdall' Point-Defense Cannon, 2500, 100, 0.3, 70, Accurate, 0.035, 0.04, 12, 2300, 300, 1, 510, 510, 120, 1,    20mm High Velocity   PDC_Bullet_AOE
+20mm 'Heimdall' Point-Defense Cannon, 2500, 100, 0.3, 70, Accurate, 0.035, 0.04, 12, 2300, 300, 1, 510, 510, 120, 1,    20mm High Velocity   PDC_Bullet_AOE
+20mm 'Heimdall' Point-Defense Cannon, 2500, 100, 0.3, 70, Accurate, 0.035, 0.04, 12, 2300, 300, 1, 510, 510, 120, 1,    20mm High Velocity   PDC_Bullet_AOE
+Defense Cannon, 3500, 0, 0.18, 2, Advanced, 0.03, 0.03, 12, 140, 480, 1, 1000, 30, 4, 45,    40mm APHE Shell
+Aesir Autocannon, 5000, 0, 0.05, 5, Accurate, 0.008, 0.008, 0.06, 240, 600, 1, 1000, 30, 4, 60,    80mm APHE Shell
+Laser Gatling, 3500, 0, 0.1, 8, Accurate, 0.01, 0.01, 0.15, 400, 660, 0, 100, 1, 10, 3,    TurretedPulseLaser
+Light Railgun, 4500, 0, 0.05, 2, Advanced, 0.01, 0.01, 60, 60, 900, 50, 375, 25, 1, 60,    Light_Railgun_Slug   Small_Railgun_Ammo_VFX1   Small_Railgun_Ammo_VFX2
+Heavy Railgun, 6000, 0, 0, 15, Accurate, 0.005, 0.007, 0.55, 240, 600, 1500, 3750, 1500, 0, 0,    Odin_Railgun_Slug   Odin_Railgun_VFX1   Odin_Railgun_VFX2   Odin_Railgun_Frag
+'Gungir' Heavy Gun Turret, 6000, 0, 0, 3, Basic, 0.001, 0.001, 0.15, 60, 720, 0, 5000, 50, 0, 0,    27-Inch HE   HE_Fragment   Distractor Shell   Thump_Flare_Travel   Thump_Flare
+CoilCannon, 6800, 0, 0.1, 0.100000001490116, Advanced, 0.0018, 0.0018, 1, 60, 810, 0, 20000, 200000, 0, 480,    CoilGunAmmo   CoilGunAmmo_VFX1   CoilGunAmmo_VFX2   CoilGunAmmo_VFX3
+Plasma, 0, 0, 0, 4, Basic, 0.005, 0.01, 0.25, 3600, 240, 1, 70000, 9000000, 0, 0,    Plasma_Beam
+Hurricane Naval Gun, 5000, 0, 0.4, 2, Accurate, 0.008, 0.007, 0.05, 120, 300, 1, 700, 700, 1, 30,    Hurricane APCBC   H_APHE_Fragment
+Mk3 Battleship Cannon, 7000, 0, 0.15, 1, Advanced, 0.0023, 0.0023, 0.05, 120, 780, 0, 20000, 200000, 0, 0,    High-Explosive Shell BC7   BC7_HE_Fragment   High-Velocity AP BC7
+Mk3 Battleship Cannon, 7000, 0, 0.15, 1, Advanced, 0.0023, 0.0023, 0.05, 120, 780, 0, 20000, 200000, 0, 0,    High-Explosive Shell BC7   BC7_HE_Fragment   High-Velocity AP BC7
+Mk2 Battleship Cannon, 6000, 0, 0.15, 5, Accurate, 0.018, 0.018, 0.05, 120, 540, 1, 700, 700, 0, 0,    High-Explosive Shell BC5   BC5_HE_Fragment   High Velocity AP BC5
+Mk2 Battleship Cannon, 6000, 0, 0.15, 5, Accurate, 0.018, 0.018, 0.05, 120, 540, 1, 700, 700, 0, 0,    High-Explosive Shell BC5   BC5_HE_Fragment   High Velocity AP BC5
+Mk1 Battleship Cannon, 5000, 0, 0.05, 15, Accurate, 0.018, 0.018, 0.05, 60, 270, 0, 20000, 200000, 0, 0,    High-Explosive Shell BC3   BC3_HE_Fragment   Armor-Penetrator Shell BC3
+Mk1 Battleship Cannon, 5000, 0, 0.05, 15, Accurate, 0.018, 0.018, 0.05, 60, 270, 0, 20000, 200000, 0, 0,    High-Explosive Shell BC3   BC3_HE_Fragment   Armor-Penetrator Shell BC3
+Horizon Torpedo, 10000, 0, 0, 180, Off, 0.1, 0.1, 0.025, 120, 1500, 300, 900, 25, 0, 1500,    Ammo 1   Mine_Static
+'Loki' Utility Launcher, 6000, 300, 0, 1, Accurate, 0.1, 0.1, 0.25, 8, 1600, 1, 70000, 9000000, 0, 0,    Vortex Torpedo   Vortex_Effect_Frag
+200mm 'Thors Wrath' Missile System, 8000, 1000, 0, 360, Off, 0.1, 0.1, 0.25, 16, 1800, 1, 70000, 9000000, 2, 30,    Thor_Launch   Thor_Travel   Thor_Travel_2   Thor_Terminal   Thor_Terminal_2
+'Fenrir' Rotary, 3500, 0, 0.2, 1, Basic, 0, 0, 0.25, 500, 1, 37, 1575, 135, 3, 0,    80mm HE Shell   80mm AP Shell   Phantom_Primary   Phantom_Secondary   Fragment_Primary   Fragment_Secondary
+'Fang' Rotary, 3500, 0, 0.25, 1, Basic, 0, 0, 0.25, 1800, 300, 1, 100, 100, 6, 18,    60mm HE Shell   60mm AP Shell   Phantom_Primary   Phantom_Secondary
+Laser Gatling Fixed, 3500, 0, 0.075, 8, Accurate, 0, 0, 45, 400, 1, 60, 1260, 180, 0, 0,    Pulse Laser   Shield H. Pulse Laser
+'Brandr' Gatling, 3500, 0, 0.05, 8, Accurate, 0, 0, 45, 250, 1, 35, 730, 85, 0, 0,    Light Pulse Laser
+Flak Cannon, 4500, 1000, 0.75, 10, Basic, 0.03, 0.03, 0.06, 240, 600, 17, 1800, 50, 0, 0,    175mm Flak Shell   175mm HE Direct Fire   HEShrapBase   HEShrap   Flak_Shell_Frag   Flak Wall Test   Canister_FragmentFF
+'Hela's Gaze', 6500, 0, 0.15, 35, Accurate, 7.5E-05, 0.00075, 0.25, 125, 380, 0, 100, 5, 0, 0,    Plasma_Shot
+Laser Cannon, 3500, 100, 0, 10, Basic, 0.03, 0.03, 0.06, 360, 900, 1, 160, 8, 0, 0,    Fission_Beam_Primary   Fission_Beam_Secondary
+BFG-Cannon, 10000, 2500, 0, 0, Basic, 0, 0, 0.025, 3600, 30, 1, 3600, 1, 0, 1500,    BFG_Cannon_Primary   C_HE_Fragment
+Ion Cannon, 0, 0, 0, 1, Accurate, 1, 11, 0.25, 3600, 1200, 1, 70000, 9000000, 0, 0,    Ion_Beam
+Scattergun, 0, 0, 0, 1, Accurate, 0.1, 0.1, 0.25, 120, 300, 1, 10000, 1250, 12, 30,    Scattergun_Base   Scattergun_Shot_2   Scattergun_Sabot
+Project Pluto (SLAM), 0, 1000, 0.2, 360, Off, 0.1, 0.1, 100, 1, 60, 10001, 10000, 0, 0, 0,    SLAMMO   SLAM Nuke Acceleration   SLAM Nuke Terminal   SLAM Nuke Frag
+Metal Storm, 40000, 0, 0.05, 5, Accurate, 0.1, 0.1, 0.25, 3600, 1200, 0, 1200, 61, 0, 0,    MetalStormProj1
+BALLER, 0, 0, 0, 180, Advanced, 0, 0, 12, 60, 300, 1, 2000, 1, 2, 0,    BALLER   BALLER_bounce1   BALLER_bounce2   BALLER_bounce3   BALLER_bounce4   BALLER_bounce5   BALLER_bounce6   BALLER_bounce7   BALLER_bounce8   BALLER_bounce9   BALLER_bounce10
+Afterburner, 0, 0, 5, 1, Off, 0.1, 0.1, 0.25, 3600, 0, 5, 1800, 20, 0, 120,    Afterburner_ammo_2
+Afterburner, 0, 0, 5, 1, Off, 0.1, 0.1, 0.25, 3600, 0, 5, 1800, 20, 25, 0,    Afterburner_ammo_2_SG
+Afterburner, 0, 0, 15, 1, Off, 0.1, 0.1, 0.25, 3600, 0, 3, 800, 25, 0, 120,    Afterburner_ammo_1
+Extra Large Afterburner, 0, 0, 20, 1, Off, 0.1, 0.1, 0.25, 3600, 0, 3, 800, 25, 0, 120,    Afterburner_ammo_3
+Ion Afterburner, 0, 0, 8, 1, Off, 0.1, 0.1, 0.25, 3600, 0, 5, 3200, 40, 0, 120,    Afterburner_ammo_4
+Solid Rocket Booster, 0, 0, 20, 1, Off, 0.1, 0.1, 0.25, 3600, 0, 1, 3600, 0, 3600, 0,    SRB_ammo
+DETPAK, 1, 0, 0.2, 1, Off, 0, 0, 0.25, 60, 1, 10000, 1, 1, 0, 0,    DETPAK   DETPAK2
+DETPAK 1x1, 1, 0, 0.2, 1, Off, 0, 0, 0.25, 60, 1, 10000, 1, 1, 0, 0,    DETPAK   DETPAK2
+DETPAK 3x1, 1, 0, 0.2, 1, Off, 0, 0, 0.25, 60, 1, 10000, 1, 1, 0, 0,    DETPAK   DETPAK2
+Gatling Turret 2.0, 0, 0, 0.4, 30, Accurate, 0.06, 0.06, 12, 1150, 60, 26, 6000, 130, 0, 0,    VanillaBulletAMS   VanillaBulletAMS_AOE
+Multiple Launched Rockets 2.0, 4000, 0, 1, 12, Basic, 0, 0, 4, 120, 360, 8, 121, 4, 0, 0,    Unguided Rockets
+Guided Rocket Turret 2.0, 6000, 0, 4, 24, Basic, 0.02, 0.03, 48, 360, 1260, 15, 200, 4, 3, 60,    Mostly Guided Rocket
+Autocannon Turret 2.0, 0, 0, 0.25, 2, Accurate, 0.03, 0.03, 0.005, 150, 120, 6, 100, 10, 0, 0,    Autocannon Shell
+Assault Cannon Autoloader 2.0, 5000, 0, 0.15, 0.25, Accurate, 0.025, 0.01, 1, 240, 600, 1, 1000, 30, 4, 60,    Assault Cannon Shell
+Artillery Autoloader 2.0, 7000, 0, 0.001, 0.00999999977648258, Accurate, 0, 0, 32, 120, 600, 1, 1000, 30, 4, 120,    Artillery Shell
+Artillery Autoloaders 2.0, 6000, 0, 0, 0.150000005960464, Accurate, 0.008, 0.005, 1, 120, 600, 1, 1000, 30, 4, 120,    Artillery Shell
+Railgun 2.0, 11000, 0, 0, 0.5, Advanced, 0, 0, 24, 20, 780, 90, 100, 6, 0, 0,    Large Railgun Slug
+Vulcan Cannon, 10000, 0, 0.5, 1, Off, 0.5, 0.5, 0.1, 1200, 1, 1, 1200, 0, 0, 0,    VulcanShell
+Crossfield, 2000, 0, 0, 45, Off, 0.02, 0.02, 0, 3600, 600, 0, 180, 1, 120, 30,    Crossfield Beam
+Crossfield, 4000, 0, 0, 45, Off, 0.02, 0.02, 0, 3600, 600, 0, 180, 1, 120, 30,    Crossfield Beam
+Crossfield, 4000, 0, 0, 45, Off, 0.02, 0.02, 0, 3600, 600, 0, 180, 1, 120, 30,    Crossfield Beam
+Crossfield, 4000, 0, 0, 45, Off, 0.02, 0.02, 0, 3600, 600, 0, 180, 1, 120, 30,    Crossfield Beam
+Tigtone, 10000, 0, 0, 10, Off, 0.5, 0.5, 0.1, 120, 600, 0, 100, 5, 3, 0,    EsperShell   EsperShot
+Mammon, 4000, 0, 0, 45, Accurate, 0.008, 0.008, 0.25, 900, 300, 0, 100, 5, 0, 0,    Mammon Beam
+Thanatos, 7000, 0, 0.35, 180, Accurate, 0.002, 0.002, 0.25, 100, 600, 40, 100, 5, 1, 0,    Thanatos Round   Thanatos Guided   Thanatos UnGuided
+Magnetar, 6000, 0, 0, 1, Accurate, 0.0025, 0.0025, 1, 360, 600, 15, 380, 20, 24, 840,    Standard   Overload
+Tempest, 0, 0, 0, 0, Accurate, 0, 0, 0.25, 120, 900, 100, 70000, 5, 0, 0,    APHE 600mm   600mm Heavy Shell Frag   HE 600mm
+Hunter 405mm Coilgun, 0, 0, 0, 0, Accurate, 0, 0, 38, 3600, 900, 1, 70000, 1, 0, 0,    High Power Hunter   Hunter Shrapnel   Low Power Hunter   Unlimited Power Hunter   Unlimited Power Branch   Unlimited Power Branch 1   Unlimited Power Branch 2
+Doppler Radar, 50000, 0, 0, 0, Off, 0, 0, 0, 0, 0, 0, 70000, 9000, 0, 0,    Radiowave
+Punisher Burst Cannon, 3000, 0, 2, 1.75, Basic, 0.015, 0.03, 0.25, 250, 120, 0, 100, 100, 4, 60,    AP 70mm
+Punisher Burst Cannon, 3000, 0, 2, 1.75, Basic, 0.015, 0.03, 0.25, 250, 120, 0, 100, 100, 4, 60,    AP 70mm
+Ares Superheavy Gauss Cannon, 100000, 0, 0, 0, Accurate, 0, 0, 0.25, 36, 1500, 100, 100, 5, 0, 0,    Classic Ares   Debug Ares   Fragment_Hitscan_Ares
+Artemis Railgun, 15000, 0, 0, 0, Advanced, 0, 0, 0.25, 60, 600, 0, 70000, 9000000, 0, 0,    Single Shot   AryxRailgunAmmoFrag   Repeating   AryxRailgunAmmoFrag_Mag   Hitscan_Artemis_Frag
+Focus Beam, 0, 0, 0, 0, Off, 0, 0, 0.25, 360, 450, 200, 1400, 100, 0, 0,    Pulse Laser
+Helios Plasma Cannon, 0, 0, 1, 180, Off, 0, 0, 0.25, 260, 360, 1, 70000, 9000000, 4, 0,    Zap   Helios_Zap_Stage2   Helios_Zap_Stage3   Helios_Zap_Stage4   Bap   Helios_Stage2   Helios_Stage3   Helios_Stage4
+Apollo 250mm Railgun Turret, 5000, 0, 0, 0.100000001490116, Accurate, 0.015, 0.01, 5, 103, 600, 7, 8, 2, 1, 30,    Repeating   AryxRailgunAmmoFrag_Mag   Hitscan_Artemis_Frag
+Pyro-acid Cannon, 4000, 0, 0.25, 5, Advanced, 0.002, 0.002, 0.25, 60, 900, 20, 100, 5, 1, 0,    Pyroacid_ammo   Pyroacid_guided_ammo   Pyroacid_splash_ammo   Pyroacid_splash2_ammo
+Pyro-acid Cannon, 4000, 0, 0.25, 5, Advanced, 0.002, 0.002, 0.25, 50, 1200, 20, 100, 5, 1, 0,    HeavyPyroacid_ammo   HeavyPyroacid_guided_ammo   HeavyPyroacid_splash_ammo   HeavyPyroacid_splash2_ammo
+Bio-plasma Cannon, 4000, 0, 0.25, 0.25, Advanced, 0.001, 0.001, 0.25, 30, 900, 100, 100, 5, 1, 0,    Bioplasma_ammo   Bioplasma_ammo_splash
+Strangler Hivedrone Launcher, 6000, 0, 15, 180, Off, 0, 1, 0.25, 120, 10800, 2, 10000, 10000, 0, 0,    Hivedrone_ammo_launch   Hivedrone_ammo   Hivedrone_ammo_half   Hivedrone_ammo_quarter   Hivedrone_ammo_eighth   Hivedrone_ammo_sixteenth   Hivedrone_ammo_lunge
+Bio-plasma Hivedrone Launcher, 6000, 0, 15, 180, Basic, 0, 1, 0.25, 120, 10800, 2, 100, 1, 0, 0,    Bioplasma_Hivedrone_ammo_launch   Bioplasma_Hivedrone_ammo   BioplasmaHivedrone_ammo_plasma   BioplasmaHivedrone_ammo_lunge
+Tyranid Leap, 0, 0, 0.25, 0.25, Off, 0.001, 0.001, 0.25, 60, 10, 100, 100, 5, 1, 0,    Leap_ammo
+LightParticleWhip, 0, 0, 0.3, 1, Accurate, 5, 5, 0.025, 20, 300, 1000, 1000, 2000, 0, 0,    Particle   Ammo 2
+ParticleWhip, 0, 0, 0.5, 1, Accurate, 5, 5, 0.25, 16, 720, 1000, 1000, 2000, 0, 0,    Particle   Ammo 2
+Nova Cannon, 0, 0, 0, 1, Accurate, 0.1, 0.1, 0.25, 60, 3000, 1, 70000, 9000000, 0, 0,    Nova Plasma Warhead

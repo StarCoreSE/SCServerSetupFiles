@@ -1,0 +1,213 @@
+12-06-23_21-33-47-634 - Logging Started
+12-06-23_21-41-48-949 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: KST Tessarius Mk2 GT3 (MyCubeGrid, 84125084275261590)Attacking Weapon:LRM-5 [Weapon] Owner:Invalid(144115188075855873) - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Invalid(144115188075855873) - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:44.62231 - isFocus:True
+
+12-06-23_21-42-21-030 - New Threat Detected:KST Tessarius Mk2 GT3 (MyCubeGrid, 84125084275261590)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.02241031 - isFocus:False
+
+12-06-23_21-42-34-888 - New Threat Detected:KST Tessarius Mk2 GT3 (MyCubeGrid, 128695287620578527)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:longsword [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.02241031 - isFocus:True
+
+12-06-23_21-42-46-186 - New Threat Detected:KST Tessarius Mk2 GT3 (MyCubeGrid, 139073006058824681)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:longsword [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.02241066 - isFocus:True
+
+12-06-23_21-42-50-638 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: KST Tessarius Mk2 GT3 (MyCubeGrid, 139073006058824681)Attacking Weapon:LRM-5 [Weapon] Owner:Invalid(144115188075855873) - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Invalid(144115188075855873) - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:44.62161 - isFocus:True
+
+12-06-23_21-46-44-054 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: KST Tessarius Mk2 GT3 (MyCubeGrid, 128695287620578527)Attacking Weapon:T4 Guardian [Weapon] Owner:Invalid(144115188075855873) - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Invalid(144115188075855873) - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:44.62231 - isFocus:True
+
+12-06-23_21-52-19-688 - New Threat Detected:Large Grid 8072 (MyCubeGrid, 96117320673698072)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:NoOwnership - ThreatLevel:0.0001 - isFocus:True
+
+12-06-23_21-52-22-875 - New Threat Detected:Large Grid 6505 (MyCubeGrid, 74944098374826505)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Reaver Coilgun [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:NoOwnership - ThreatLevel:0.0001 - isFocus:True
+
+12-06-23_21-53-04-021 - New Threat Detected:Large Grid 2395 (MyCubeGrid, 117764990208212395)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:2.406928E-11 - isFocus:True
+
+12-06-23_21-53-55-071 - New Threat Detected:Large Grid 6944 (MyCubeGrid, 83332071243346944)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+12-06-23_21-54-47-714 - New Threat Detected:Large Grid 2893 (MyCubeGrid, 90008679711772893)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0 - isFocus:True
+
+12-06-23_21-54-52-764 - New Threat Detected:Large Grid 2579 (MyCubeGrid, 130777543089522579)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Type 78 Railgun Turret [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:NoOwnership - ThreatLevel:1.604619E-11 - isFocus:True
+
+12-06-23_21-56-54-898 - New Threat Detected:Large Grid 8989 (MyCubeGrid, 73674894148558989)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Type 78 Railgun Turret [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.001075722 - isFocus:True
+
+12-06-23_21-58-03-964 - New Threat Detected:Large Grid 3370 (MyCubeGrid, 89455996233163370)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+12-06-23_22-01-30-965 - New Threat Detected:Large Grid 7129 (MyCubeGrid, 74483238071047129)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.591581E-05 - isFocus:True
+
+12-06-23_22-02-01-032 - New Threat Detected:Large Grid 3441 (MyCubeGrid, 110109896215573441)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Reaver Coilgun [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.627083E-05 - isFocus:True
+
+12-06-23_22-02-26-248 - New Threat Detected:Large Grid 6295 (MyCubeGrid, 89802063808696295)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+12-06-23_22-04-37-006 - New Threat Detected:ZerkAI (MyCubeGrid, 110416614243151531)
+ - by: LamAI (MyCubeGrid, 112709980629391050)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.799642 - isFocus:True
+
+12-06-23_22-04-37-791 - New Threat Detected:LamAI (MyCubeGrid, 112709980629391050)
+ - by: ZerkAI (MyCubeGrid, 110416614243151531)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.555666 - isFocus:True
+
+12-06-23_22-04-39-839 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: HermesAI (MyCubeGrid, 87961748974940273)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:75.53856 - isFocus:True
+
+12-06-23_22-04-44-038 - New Threat Detected:HermesAI (MyCubeGrid, 81365557632774961)
+ - by: HermesAI (MyCubeGrid, 82347687662796298)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-04-46-908 - New Threat Detected:HermesAI (MyCubeGrid, 82347687662796298)
+ - by: HermesAI (MyCubeGrid, 81365557632774961)Attacking Weapon:T2PDX [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-04-47-292 - New Threat Detected:HermesAI (MyCubeGrid, 123374064146895638)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.01323827 - isFocus:False
+
+12-06-23_22-04-47-707 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: HermesAI (MyCubeGrid, 123374064146895638)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:75.53856 - isFocus:True
+
+12-06-23_22-04-52-710 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: HermesAI (MyCubeGrid, 81365557632774961)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:75.53856 - isFocus:True
+
+12-06-23_22-04-53-406 - New Threat Detected:HermesAI (MyCubeGrid, 87961748974940273)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.01323827 - isFocus:False
+
+12-06-23_22-05-04-176 - New Threat Detected:HermesAI (MyCubeGrid, 82347687662796298)
+ - by: HermesAI (MyCubeGrid, 123374064146895638)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-05-04-191 - New Threat Detected:HermesAI (MyCubeGrid, 81365557632774961)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.01323827 - isFocus:False
+
+12-06-23_22-05-05-310 - New Threat Detected:HermesAI (MyCubeGrid, 123374064146895638)
+ - by: HermesAI (MyCubeGrid, 82347687662796298)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-05-07-466 - New Threat Detected:HermesAI (MyCubeGrid, 82347687662796298)
+ - by: HermesAI (MyCubeGrid, 87961748974940273)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-05-13-841 - New Threat Detected:HermesAI (MyCubeGrid, 87961748974940273)
+ - by: LamAI (MyCubeGrid, 112709980629391050)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.178555 - isFocus:True
+
+12-06-23_22-05-19-900 - New Threat Detected:ZerkAI (MyCubeGrid, 110416614243151531)
+ - by: CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)Attacking Weapon:Erebos [Weapon] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:Muzzled(144115188075855897) - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.02021471 - isFocus:False
+
+12-06-23_22-05-24-266 - New Threat Detected:ZerkAI (MyCubeGrid, 110091777995829020)
+ - by: ZerkAI (MyCubeGrid, 136338144539000894)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-05-26-482 - New Threat Detected:ZerkAI (MyCubeGrid, 136338144539000894)
+ - by: ZerkAI (MyCubeGrid, 110091777995829020)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-05-28-533 - New Threat Detected:ZerkAI (MyCubeGrid, 136338144539000894)
+ - by: HermesAI (MyCubeGrid, 123374064146895638)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1.52699 - isFocus:True
+
+12-06-23_22-05-28-816 - New Threat Detected:HermesAI (MyCubeGrid, 82347687662796298)
+ - by: ZerkAI (MyCubeGrid, 110091777995829020)Attacking Weapon:Crouching Tiger 150mm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.6548832 - isFocus:True
+
+12-06-23_22-05-31-986 - New Threat Detected:ZerkAI (MyCubeGrid, 136338144539000894)
+ - by: HermesAI (MyCubeGrid, 87961748974940273)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1.52699 - isFocus:True
+
+12-06-23_22-05-34-416 - New Threat Detected:ZerkAI (MyCubeGrid, 136338144539000894)
+ - by: HermesAI (MyCubeGrid, 81365557632774961)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:1.52699 - isFocus:True
+
+12-06-23_22-05-35-084 - New Threat Detected:ZerkAI (MyCubeGrid, 110091777995829020)
+ - by: HermesAI (MyCubeGrid, 82347687662796298)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.52699 - isFocus:True
+
+12-06-23_22-05-47-883 - New Threat Detected:CYB - Berzerker GT500 3.18 (MyCubeGrid, 140206324466599411)
+ - by: ZerkAI (MyCubeGrid, 110416614243151531)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:49.46893 - isFocus:True
+
+12-06-23_22-05-53-580 - New Threat Detected:ZerkAI (MyCubeGrid, 110416614243151531)
+ - by: HermesAI (MyCubeGrid, 82347687662796298)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.52699 - isFocus:True
+
+12-06-23_22-06-01-664 - New Threat Detected:HermesAI (MyCubeGrid, 87961748974940273)
+ - by: HermesAI (MyCubeGrid, 82347687662796298)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1 - isFocus:True
+
+12-06-23_22-06-49-129 - New Threat Detected:HermesAI (MyCubeGrid, 81365557632774961)
+ - by: ZerkAI (MyCubeGrid, 136338144539000894)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.6548832 - isFocus:True
+
+12-06-23_22-07-17-328 - New Threat Detected:Large Grid 8543 (MyCubeGrid, 134846276843718543)
+ - by: ZerkAI (MyCubeGrid, 136338144539000894)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:0.0001 - isFocus:True
+
+12-06-23_22-07-23-545 - New Threat Detected:HermesAI (MyCubeGrid, 82347687662796298)
+ - by: ZerkAI (MyCubeGrid, 110416614243151531)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.6548832 - isFocus:True
+
+12-06-23_22-08-14-244 - New Threat Detected:ZerkAI (MyCubeGrid, 110091777995829020)
+ - by: LamAI (MyCubeGrid, 112709980629391050)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.799642 - isFocus:True
+
+12-06-23_22-08-19-678 - New Threat Detected:LamAI (MyCubeGrid, 112709980629391050)
+ - by: ZerkAI (MyCubeGrid, 110091777995829020)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.555666 - isFocus:True
+
+12-06-23_22-08-32-729 - New Threat Detected:LamAI (MyCubeGrid, 112709980629391050)
+ - by: HermesAI (MyCubeGrid, 123374064146895638)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.8484964 - isFocus:True
+
+12-06-23_22-08-32-978 - New Threat Detected:HermesAI (MyCubeGrid, 123374064146895638)
+ - by: LamAI (MyCubeGrid, 112709980629391050)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:1.178555 - isFocus:True
+
+12-06-23_22-09-27-964 - New Threat Detected:ZerkAI (MyCubeGrid, 110416614243151531)
+ - by: Large Grid 2569 (MyCubeGrid, 129842483821172569)Attacking Weapon:Derecho Missile Storm [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:16.37218 - isFocus:False
+
+12-06-23_22-09-58-721 - New Threat Detected:Large Grid 4523 (MyCubeGrid, 79204382161474523)
+ - by: ZerkAI (MyCubeGrid, 110416614243151531)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.06107924 - isFocus:True
+
+12-06-23_22-09-59-599 - New Threat Detected:Large Grid 2689 (MyCubeGrid, 77118972583942689)
+ - by: ZerkAI (MyCubeGrid, 110416614243151531)Attacking Weapon:Type 18 Heavy Turret [Weapon] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855878 - Faction:BLUE(254526394259295320) - Relationship:Enemies - ThreatLevel:0.05321482 - isFocus:True
+
+12-06-23_22-10-08-871 - New Threat Detected:ZerkAI (MyCubeGrid, 110416614243151531)
+ - by: Large Grid 2689 (MyCubeGrid, 77118972583942689)Attacking Weapon:T2PDX [Weapon] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Neutrals:True - Friends:False - Unowned:False
+[Ai] Owner:144115188075855879 - Faction:RED_(229051799490468413) - Relationship:Enemies - ThreatLevel:18.79176 - isFocus:False
+

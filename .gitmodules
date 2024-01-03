@@ -1,0 +1,3 @@
+[submodule "starcore-configs/Instance/Saves/StarcoreMTWorld"]
+	path = starcore-configs/Instance/Saves/StarcoreMTWorld
+	url = https://github.com/StarCoreSE/StarcoreMTWorld.git
