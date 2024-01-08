@@ -1,3 +1,2 @@
-cd other
-StarCore-Server-Setup.exe
+python StarCore-Server-Setup.py
 PAUSE
