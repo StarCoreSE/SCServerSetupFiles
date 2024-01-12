@@ -26,10 +26,10 @@
   <convertInGravity>false</convertInGravity>
   <FactionShareDeposit>true</FactionShareDeposit>
   <IdentityUpdate>false</IdentityUpdate>
-  <Claim>false</Claim>
-  <ClaimOnlyForLeaders>true</ClaimOnlyForLeaders>
+  <Claim>true</Claim>
+  <ClaimOnlyForLeaders>false</ClaimOnlyForLeaders>
   <ClaimOnlyFactionGrids>false</ClaimOnlyFactionGrids>
-  <ClaimPercent>70</ClaimPercent>
+  <ClaimPercent>1</ClaimPercent>
   <FactionsNeutralOnCreation>false</FactionsNeutralOnCreation>
   <ExcludedFactionTags>SPRT,EXAMPLE1,EXAMPLE2</ExcludedFactionTags>
   <CooldownInSeconds>600</CooldownInSeconds>
