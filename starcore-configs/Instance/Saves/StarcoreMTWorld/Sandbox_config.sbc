@@ -145,19 +145,14 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="BaRCore">
-      <Name>2896161103.sbm</Name>
-      <PublishedFileId>2896161103</PublishedFileId>
+    <ModItem FriendlyName="SCCoordinateOutput">
+      <Name>2975063364.sbm</Name>
+      <PublishedFileId>2975063364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="OnyxArmamentCo">
-      <Name>3123483745.sbm</Name>
-      <PublishedFileId>3123483745</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="WeaponCore - 2.4">
-      <Name>1918681825.sbm</Name>
-      <PublishedFileId>1918681825</PublishedFileId>
+    <ModItem FriendlyName="WeaponCore-StarCore">
+      <Name>3149625043.sbm</Name>
+      <PublishedFileId>3149625043</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WC Radar">
@@ -205,14 +200,19 @@
       <PublishedFileId>3018817811</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Starcore-One-Shot-2024">
+      <Name>3149645583.sbm</Name>
+      <PublishedFileId>3149645583</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Tournament Weapon Category">
       <Name>2785856511.sbm</Name>
       <PublishedFileId>2785856511</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - GreyRingsClose">
-      <Name>3048988271.sbm</Name>
-      <PublishedFileId>3048988271</PublishedFileId>
+    <ModItem FriendlyName="StarCore Skybox - Cool Superneptune">
+      <Name>3133652217.sbm</Name>
+      <PublishedFileId>3133652217</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Serpent Arms Heavy Metal">
@@ -225,11 +225,6 @@
       <PublishedFileId>2862022197</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore REEECore">
-      <Name>2683126168.sbm</Name>
-      <PublishedFileId>2683126168</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
       <Name>2973091771.sbm</Name>
       <PublishedFileId>2973091771</PublishedFileId>
@@ -238,11 +233,6 @@
     <ModItem FriendlyName="Starcore Paperdoll">
       <Name>2846569122.sbm</Name>
       <PublishedFileId>2846569122</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore One-Shot">
-      <Name>2822027695.sbm</Name>
-      <PublishedFileId>2822027695</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore MA weapons natebranch Supar Sekrit AutoMcDognut Bootleg">
@@ -268,11 +258,6 @@
     <ModItem FriendlyName="StarCore Halo Craft">
       <Name>2902780249.sbm</Name>
       <PublishedFileId>2902780249</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Enabler Rewards">
-      <Name>2961654766.sbm</Name>
-      <PublishedFileId>2961654766</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Character Edits and Proximity Entry">
@@ -305,7 +290,7 @@
       <PublishedFileId>2414738008</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Ship Points - Sharetrack Starcore">
+    <ModItem FriendlyName="Starcore Sharetrack - Ship Points">
       <Name>2756825813.sbm</Name>
       <PublishedFileId>2756825813</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -360,6 +345,11 @@
       <PublishedFileId>1359618037</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="REEECore-2024">
+      <Name>3149648890.sbm</Name>
+      <PublishedFileId>3149648890</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="PickmeRevengeance + FactionControl">
       <Name>2986589130.sbm</Name>
       <PublishedFileId>2986589130</PublishedFileId>
@@ -368,6 +358,11 @@
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
       <Name>500818376.sbm</Name>
       <PublishedFileId>500818376</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="OnyxArmamentCo">
+      <Name>3123483745.sbm</Name>
+      <PublishedFileId>3123483745</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="OldBlockRestrictions">
@@ -410,9 +405,9 @@
       <PublishedFileId>2953725395</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Heavy Assault Systems">
-      <Name>2737684960.sbm</Name>
-      <PublishedFileId>2737684960</PublishedFileId>
+    <ModItem FriendlyName="Heavy-Assault-Systems-2024">
+      <Name>3149644542.sbm</Name>
+      <PublishedFileId>3149644542</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
@@ -435,9 +430,14 @@
       <PublishedFileId>2756894170</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Defense Shields - v2.2(8)">
-      <Name>1365616918.sbm</Name>
-      <PublishedFileId>1365616918</PublishedFileId>
+    <ModItem FriendlyName="DefenseShields-StarCore">
+      <Name>3149619582.sbm</Name>
+      <PublishedFileId>3149619582</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="DamageInfo">
+      <Name>3109350369.sbm</Name>
+      <PublishedFileId>3109350369</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Control Module - basically key binding for ships">
@@ -465,9 +465,9 @@
       <PublishedFileId>514062285</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Blink Drive">
-      <Name>1663539021.sbm</Name>
-      <PublishedFileId>1663539021</PublishedFileId>
+    <ModItem FriendlyName="BaRCore">
+      <Name>2896161103.sbm</Name>
+      <PublishedFileId>2896161103</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
@@ -510,9 +510,19 @@
       <PublishedFileId>2880317963</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="AE NPC Dummies - Interactable NPC Blocks v. 0.6">
+      <Name>2289675817.sbm</Name>
+      <PublishedFileId>2289675817</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="[SpraysAddon]SyFy-Font">
       <Name>2414545923.sbm</Name>
       <PublishedFileId>2414545923</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[SpraysAddon]StarCore Enabler Rewards">
+      <Name>2961654766.sbm</Name>
+      <PublishedFileId>2961654766</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="[SpraysAddon]SpraysStarterPack">
@@ -545,7 +555,13 @@
       <PublishedFileId>2956906605</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="ModAdjusterV2">
+      <Name>3017795356.sbm</Name>
+      <PublishedFileId>3017795356</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2023-12-26T13:53:14.3359718-06:00</LastSaveTime>
+  <LastSaveTime>2024-02-15T05:50:40.2416624-06:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

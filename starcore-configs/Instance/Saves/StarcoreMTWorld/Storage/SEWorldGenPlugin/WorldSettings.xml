@@ -18,7 +18,7 @@
       <Max>100000000</Max>
     </MinMaxOrbitDistance>
     <SystemPlaneDeviation>5</SystemPlaneDeviation>
-    <AsteroidDensity>0.5</AsteroidDensity>
+    <AsteroidDensity>0.3</AsteroidDensity>
     <WorldSize>-1</WorldSize>
     <PlanetSettings>
       <PlanetSizeMultiplier>1</PlanetSizeMultiplier>

@@ -1,5 +1,5 @@
-[13:52:30.859] [T1] [DS=False] DEBUG | Log Started
-[13:52:30.929] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[13:19:35.036] [T1] [DS=False] DEBUG | Log Started
+[13:19:35.084] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -809,6 +809,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Afterburner_LG_Ion_Large
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_SideBooster_Small
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_AC150
 ->-> Setting added successfully
@@ -940,6 +941,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/EmitterS
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/EmitterST
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/LargeShieldModulator
 ->-> Setting added successfully
@@ -1082,7 +1084,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_LRM_Block
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_PPC_Block
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Arrow_Block
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SG_Vulcan_SAMS_Block
@@ -1348,9 +1350,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_JumpDrive/LargeJumpDrive_Tier4
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/BlinkDriveLarge
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/BlinkDriveSmall
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_Launcher_II
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_Launcher_III
@@ -1476,9 +1478,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Odin_CoilCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_M_Laser_Block
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_L_Laser_Block
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_SRB
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Basic_Warhead
@@ -1668,11 +1670,13 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/ERPPC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SLAM
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_COV_Plasma_Turret
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/banshee
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/EXP_Spinal_Ion_Cannon
 ->-> Definition added to restricted list
@@ -1704,105 +1708,106 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Guardian
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ArcMeleeLarge
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_DeskCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Couch
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_CouchCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_PassengerSeat
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Wall
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Akimbo
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_ArmPad
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_ControlSeat
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Normal
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Salute
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_ArmPad_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Bed_Lying
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Bed_Sitting
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Rifle
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_StoreBlock/NPC_Dummies_Store_Standing
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_StoreBlock/NPC_Dummies_Store_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ContractBlock/NPC_Dummies_Contracts_Crates
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ContractBlock/NPC_Dummies_Contracts_Standing
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ContractBlock/NPC_Dummies_Contracts_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_LeaningDesk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_LeaningDesk_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_LeaningRailing
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Normal
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Cup
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_DeskCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_PassengerSeat
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Couch
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_CouchCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Normal_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Wall_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Akimbo_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_ArmPad_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Salute_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console_Small_R
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console_Small_L
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Rifle_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Normal_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Cup_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_StoreBlock/NPC_Dummies_Store_Standing_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_PassengerSeat_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_PassengerSeat_Small_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_PassengerSeat_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_PassengerSeat_Small_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_ControlSeat_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Cryo_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_SoundBlock/ChetsMagicMusicBox
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Light_Autocannon
@@ -1811,12 +1816,16 @@ BeforeStart() - Checking Config for saved settings
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DisabledHakkeroBeam
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DisabledHakkeroBeamMini
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DisabledHakkeroProjectile
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/DisabledHakkeroProjectileMini
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Heavy_Repeater
 ->-> Unable to retrieve MyCubeBlockDefinition
@@ -1861,6 +1870,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Gingersnaps
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_EnergyShieldGun
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/PhysBlink
 ->-> Unable to retrieve MyCubeBlockDefinition
@@ -1925,24 +1935,32 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_sb
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeGatlingTurret/LargeGatlingTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeBlockMediumCalibreTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeCalibreTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeMissileTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_SmallMissileLauncher/LargeMissileLauncher_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeBlockLargeCalibreGun_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeRailgun_SC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/CLB2X
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/BALLER
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/65_Launcher_FixedMount
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Hellfire_Laser_Block
 ->-> Setting added successfully
@@ -2048,23 +2066,31 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_AirVent/SmallAirVentFull
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/Suspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/Suspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MyProgrammableBlock/6SidePBSmall
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_MyProgrammableBlock/6SidePB
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_OxygenGenerator/Charger
@@ -2088,19 +2114,23 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanHangarBomberMedium
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Crossfield
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_MammonMK2
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_BatteryBlock/CapacitorLarge
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_HealGenerator
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_FlakShotgun
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ImpulseTorch
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Support_Module_Test
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_HS_Damnation
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeMissileTurret/KreegMagnetarCannon
@@ -2136,9 +2166,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Beacon/SmallBlockBeaconReskin
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_CryoChamber/LargeBlockCryoRoom
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Cockpit/SmallBlockCapCockpit
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TextPanel/HoloLCDLarge
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/HoloLCDSmall
@@ -2148,9 +2178,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_InteriorLight/LargeBlockInsetAquarium
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_CryoChamber/LargeBlockHalfBed
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_CryoChamber/LargeBlockHalfBedOffset
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TextPanel/LargeFullBlockLCDPanel
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/SmallFullBlockLCDPanel
@@ -2166,13 +2196,14 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_TerminalBlock/LargeCrate
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Warhead/LargeExplosiveBarrel
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Warhead/SmallExplosiveBarrel
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Cockpit/LargeBlockInsetPlantCouch
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_CryoChamber/LargeBlockInsetBed
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ButtonPanel/LargeBlockInsetButtonPanel
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Jukebox/LargeBlockInsetEntertainmentCorner
@@ -2182,36 +2213,52 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_InteriorLight/LargeBlockInsetKitchen
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Thrust/LargeBlockLargeFlatAtmosphericThrust
 ->-> Setting added successfully
@@ -2230,36 +2277,52 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Thrust/SmallBlockSmallFlatAtmosphericThrustDShape
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/SmallLargeBlockUpgrade
 ->-> Setting added successfully
@@ -2334,8 +2397,10 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/ADMTaiidanHangarBomber
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_SmallMissileLauncher/LargeFlareLauncher
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_SmallMissileLauncher/SmallFlareLauncher
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverSatellite
 ->-> Setting added successfully
@@ -2352,6 +2417,228 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT44
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Decoy/LargeDecoy_MetalFoam
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor_Slanted
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Aries
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_CataclysmicVariable
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Forager
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_LocusGleam
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Nimrod
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Phaethon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Resheph
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Tumult
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Starcore_AMS_Comm_Block
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/AirtightHangarDoorWarfare2A
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/AirtightHangarDoorWarfare2B
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/AirtightHangarDoorWarfare2C
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/LargeBlockLargeIndustrialContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockSmallContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockMediumContainer
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockLargeContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/LargeBlockSmallContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/LargeBlockLargeContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Beacon/DisposableNpcBeaconLarge
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Beacon/DisposableNpcBeaconSmall
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ConveyorSorter/ProprietaryLargeBlockConveyorSorter
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Gyro/ProprietaryLargeBlockGyro
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Atmo-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Atmo-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Atmo-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Atmo-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Hydro-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Hydro-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Hydro-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Hydro-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Ion-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Ion-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Ion-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-Ion-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IonSciFi-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IonSciFi-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IonSciFi-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IonSciFi-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-AtmoSciFi-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-AtmoSciFi-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-AtmoSciFi-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-AtmoSciFi-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Nanobots-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-JumpDrive-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Jetpack-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Drill-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Reactor/ProprietarySmallBlockSmallGenerator
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Reactor/ProprietarySmallBlockLargeGenerator
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Reactor/ProprietaryLargeBlockSmallGenerator
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Reactor/ProprietaryLargeBlockLargeGenerator
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_GravityGenerator/ProprietaryGravGen
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_GravityGeneratorSphere/ProprietaryGravGenSphere
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_VirtualMass/ProprietaryVirtualMassLarge
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_VirtualMass/ProprietaryVirtualMassSmall
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_SpaceBall/ProprietarySpaceBallLarge
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_SpaceBall/ProprietarySpaceBallSmall
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/ProprietarySmallBlockSmallThrust
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/ProprietarySmallBlockLargeThrust
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/ProprietaryLargeBlockSmallThrust
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/ProprietaryLargeBlockLargeThrust
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_LaserAntenna/ProprietaryLargeBlockLaserAntenna
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_LaserAntenna/ProprietarySmallBlockLaserAntenna
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_JumpDrive/ProprietaryLargeJumpDrive
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Projector/MES-Blocks-ShipyardTerminal
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ButtonPanel/MES-Blocks-SuitUpgradeStation
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_ButtonPanel/MES-Blocks-ResearchTerminal
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_BatteryBlock/MES-NPC-Battery-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IndustryHydro-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IndustryHydro-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IndustryHydro-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-IndustryHydro-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-WarfareIon-SmallGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-WarfareIon-SmallGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-WarfareIon-LargeGrid-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_Thrust/MES-NPC-Thrust-WarfareIon-LargeGrid-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RemoteControl/RivalAIRemoteControlLarge
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RemoteControl/RivalAIRemoteControlSmall
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Energy-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Energy-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Player-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Player-Large
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Nanobots-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-JumpDrive-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Jetpack-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_RadioAntenna/MES-Suppressor-Drill-Small
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_InteriorTurret/NpcLargeInteriorTurret
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TurretControlBlock/MES-NpcLargeTurretControlBlock
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TurretControlBlock/MES-NpcSmallTurretControlBlock
+->-> Unable to retrieve MyCubeBlockDefinition
+-> Setting = MyObjectBuilder_TerminalBlock/PM_LG_BLASTPLATE_BLASTPLATE
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/SELtdLargeNanobotBuildAndRepairSystem
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/SELtdSmallNanobotBuildAndRepairSystem
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/BlinkDriveLarge
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyBolterSmall
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyBolterSmallSponson
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyBolterLargeSponson
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Lascannon
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/BattleCannon
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/PlasmaCannon
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/EarthshakerCannon
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/FluxArcLarge
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/FluxArcSmall
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/MonoWhip
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/MonoWhipSmall
+->-> Definition added to restricted list
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
